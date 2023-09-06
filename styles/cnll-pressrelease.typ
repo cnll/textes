@@ -67,7 +67,10 @@
 
   // Underline links
   show link: it => [
-    #underline(stroke: 1pt + blue, offset: 3pt)[#it]
+    // #set text(color: blue)
+    #text(blue)[
+      #underline(stroke: 1pt + blue, offset: 3pt)[#it]
+    ]
   ]
 
   // Display the title

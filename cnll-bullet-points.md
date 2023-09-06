@@ -5,11 +5,6 @@
   title: "La France doit protéger sa filière du logiciel libre des effets de bord du Cyber Resilience Act (CRA)",
   author: "",
   date: "6 septembre 2023",
-  publishing-info: [
-    CNLL
-
-    #link("https://cnll.fr/")
-  ],
 )
 
 #set text(lang: "fr")
