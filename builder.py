@@ -12,6 +12,7 @@ from cleez.colors import green
 
 DOCS = [
     "cp-cnll-cra-sept-2023",
+    "etude-cra-sept-2023",
 ]
 
 
@@ -49,6 +50,10 @@ class Make(cleez.Command):
 
         text = typ_file.read_text()
         text = text.replace("TOTOTITI", preamble)
+
+        # hack
+        text = text.replace("#horizontalrule", "")
+
         typ_file.write_text(text)
 
         sh(["typst", "compile", "--root=.", str(typ_file)])

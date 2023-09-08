@@ -5,6 +5,7 @@
   author: "CNLL",
   date: "DRAFT",
   paper: "a4",
+  version: "draft",
   body,
 ) = {
   // Set the document's metadata.
@@ -16,13 +17,13 @@
     margin: (bottom: 1.75cm, top: 2.25cm),
   )
 
-  set text(13pt, font: "Rosario")
+  set text(12pt, font: "Rosario")
 
   // Configure paragraph properties.
   set par(
     leading: 0.78em,
     first-line-indent: 2em,
-    // justify: true,
+    justify: true,
   )
   // show par: set block(spacing: 0.78em)
 
@@ -58,9 +59,15 @@
   // Configure headings.
   show heading: it => {
     if it.level == 2 [
-      #set text(1.2em, weight: 600)
-      // #set par(leading: 2em)
+      #set text(weight: "bold")
+      #set par(leading: 0.6em)
       #set block(above: 2.5em, below: 1.5em)
+      #it
+    ]
+    if it.level == 3 [
+      #set text(1.1em, weight: "semibold", style: "italic")
+      #set par(leading: 0.6em)
+      #set block(above: 2em, below: 1.5em)
       #it
     ]
   }
@@ -77,6 +84,10 @@
   v(3pt, weak: true)
   align(center, text(20pt, title))
   v(3em, weak: true)
+
+  // Display the version
+  align(center, text(version))
+  v(1em)
 
   body
 }

@@ -4,7 +4,7 @@
 #show: pressrelease.with(
   title: "La France doit protéger sa filière du logiciel libre des effets de bord du Cyber Resilience Act (CRA)",
   author: "",
-  date: "6 septembre 2023",
+  date: "7 septembre 2023",
 )
 
 #set text(lang: "fr")
@@ -13,11 +13,11 @@
 
 # La France doit protéger sa filière du logiciel libre des effets de bord du Cyber Resilience Act (CRA)
 
-Paris, le 6 septembre 2023 - Pour diffusion immédiate.
+Paris, le 7 septembre 2023 - Pour diffusion immédiate.
 
-Les institutions européennes entament la phase finale des négocations autour du CRA (*Cyber Resilience Act*), une initiative réglementaire dans le domaine de la cyber-sécurité qui risque, dans l'état actuel de certaines versions du texte, d'avoir un impact négatif considérable sur la façon dont les logiciels libres sont écrits, diffusés et utilisés en Europe, et par conséquence sur le dynamisme de la filière professionnelle de l'open source. Les logiciels libres, essentiels à l'économie numérique française et à notre souveraineté numérique, nécessitent en effet une stratégie claire et une protection juridique. Le CNLL demande donc à ce que le gouvernement français fasse tous les efforts nécessaires pour que soient clarifiées les questions de responsabilité pour les créateurs de logiciels open source, afin d'éviter des risques juridiques potentiels et de minimiser l'impact économique sur CRA sur l'économie et la souveraineté numériques.
+Les institutions européennes entament la phase finale des négocations autour du CRA (*Cyber Resilience Act*), une initiative réglementaire dans le domaine de la cyber-sécurité qui risque, dans l'état actuel de certaines versions du texte, d'avoir un impact négatif considérable sur la façon dont les logiciels libres sont écrits, diffusés et utilisés en Europe, et par conséquent sur le dynamisme de la filière professionnelle de l'open source. Les logiciels libres, essentiels à l'économie numérique française et à notre souveraineté numérique, nécessitent en effet une stratégie claire et une protection juridique. Le CNLL demande donc à ce que le gouvernement français fasse tous les efforts nécessaires pour que soient clarifiées les questions de responsabilité pour les créateurs de logiciels et composants open source, afin d'éviter tout risques juridiques et de minimiser l'impact du CRA sur l'économie et la souveraineté numériques.
 
-Le CNLL a publié ce jour une [étude détaillée de l'impact du CRA sur la filière du logiciel libre](https://cnll.fr/news/declaration-cra-cyber-resilience-act/) et pointe les éléments qui peuvent encore en limiter les conséquences négatives s'ils sont pris en compte lors du trilogue.
+Le CNLL a publié une [étude détaillée de l'impact du CRA sur la filière du logiciel libre](https://cnll.fr/news/declaration-cra-cyber-resilience-act/) et pointe les éléments qui peuvent encore en limiter les conséquences négatives s'ils sont pris en compte lors du trilogue.
 
 Ce qui suit en résume les points clefs.
 
@@ -56,9 +56,9 @@ Le CNLL demande donc au gouvernement français, ainsi qu'à toutes les parties p
 ## Références et documents complémentaires
 
 - [Déclaration du CNLL sur le CRA (Cyber Resilience Act)](https://cnll.fr/news/declaration-cra-cyber-resilience-act/) - CNLL (sept. 2023)
-
 - [Diverse Open Source uses highlight need for precision in Cyber Resilience Act](https://blog.opensource.org/diverse-open-source-uses-highlight-need-for-precision-in-cyber-resilience-act/) - Open Source Initiative (sept. 2023)
 - [Le CNLL alerte sur les dangers du Cyber Resilience Act pour la filière du logiciel libre en Europe](https://cnll.fr/news/le-cnll-alerte-sur-les-dangers-du-cyber-resilience-act-pour-la-fili%C3%A8re-du-logiciel-libre-en-europe/) - CNLL (juil. 2023)
+- [Etude 2022 : Le marché de l’open source en France et Europe](https://cnll.fr/news/etude-2022-le-march%C3%A9-de-lopen-source-en-france-et-europe/) - CNLL (nov. 2022).
 
 ## A propos du CNLL
 
