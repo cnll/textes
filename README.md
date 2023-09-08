@@ -12,3 +12,11 @@ See also: [CNLL News](https://cnll.fr/news/) and [CNLL Etudes et rapports](https
 ## Install
 
 This project is developped using [rye](https://rye-up.com/) and [typst](https://typst.app/) which much be installed independently.
+
+To generate the PDFs from the Markdown sources, run:
+
+```bash
+make
+```
+
+Under the hood, this will call the `build.py` script which will transform the Markdown sources to Typst source files (`.typ`) then into PDFs using [typst](https://typst.app/).
