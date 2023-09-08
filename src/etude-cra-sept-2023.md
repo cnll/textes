@@ -87,9 +87,9 @@ Le texte de la commission ITRE du Parlement européen dispose que "*la question 
 
 Cependant, un logiciel open source commercial est constitué de nombreux composants qui ont été développés de diverses manières (y compris sur une base bénévole). Le processus de développement est une longue chaîne qui peut durer plusieurs années et impliquer un nombre incalculable d'acteurs et d'organisations. Le fournisseur du produit final peut n'avoir été impliqué que dans une partie du processus de développement, voire pas du tout. Il est donc pratiquement impossible pour le vendeur de disposer de toutes les informations relatives à chaque étape du processus de développement et de décider si l'exception relative aux logiciels libres s'applique ou non à son cas. La complexité des différents modèles de développement open source n'est donc pas suffisamment prise en compte par le CRA à ce stade.
 
-Le texte du Conseil européen est donc plus approprié : "*Les circonstances dans lesquelles le produit a été développé ou la manière dont le développement a été financé ne devraient pas être prises en compte pour déterminer la nature commerciale ou non commerciale de cette activité*.
+Le texte du Conseil de l'Union européenne est donc plus approprié : "*Les circonstances dans lesquelles le produit a été développé ou la manière dont le développement a été financé ne devraient pas être prises en compte pour déterminer la nature commerciale ou non commerciale de cette activité*.
 
-**Le modèle de développement ne doit pas jouer un rôle dans le fait qu'un produit soit considéré comme "commercial". La proposition de texte du Conseil européen doit donc être privilégiée dans le trilogue.**
+**Le modèle de développement ne doit pas jouer un rôle dans le fait qu'un produit soit considéré comme "commercial". La proposition de texte du de l'Union européenne doit donc être privilégiée dans le trilogue.**
 
 ### 2) Développement et maintenance par une seule organisation - Considérant 10 bis
 
@@ -113,9 +113,9 @@ Cette définition pose problème, car de nombreux développeurs à temps plein p
 
 Dans la pratique, cependant, la règle proposée aurait pour conséquence que les personnes employées (éventuellement ailleurs) cesseraient de s'impliquer dans des projets open source bénévoles. En somme, cela conduirait à des logiciels moins sûrs plutôt qu'à des logiciels plus sûrs.
 
-La formulation du texte du Conseil européen déjà mentionnée au point 1) est donc la meilleure ici aussi : "*Les circonstances dans lesquelles le produit a été développé ou la manière dont le développement a été financé ne devraient pas être prises en compte pour déterminer la nature commerciale ou non commerciale de cette activité*".
+La formulation du texte de l'Union européenne déjà mentionnée au point 1) est donc la meilleure ici aussi : "*Les circonstances dans lesquelles le produit a été développé ou la manière dont le développement a été financé ne devraient pas être prises en compte pour déterminer la nature commerciale ou non commerciale de cette activité*".
 
-**La définition "lorsque les principaux participants aux projets libres et open source sont des développeurs employés par des sociétés commerciales" doit donc être supprimée. La proposition de texte du Conseil européen doit être privilégiée dans le trilogue.**
+**La définition "lorsque les principaux participants aux projets libres et open source sont des développeurs employés par des sociétés commerciales" doit donc être supprimée. La proposition de texte de l'Union européenne doit être privilégiée dans le trilogue.**
 
 ### 4) Dons - Considérant 10 ter
 
@@ -133,9 +133,9 @@ Le texte de la commission ITRE du Parlement européen dispose que "*le seul fait
 
 Le terme "la plupart" signifie ici qu'il n'est pas du tout clair quels gestionnaires de paquets relèvent de l'exception et lesquels n'en relèvent pas. Il en résulte une grande insécurité juridique. Il est donc urgent de supprimer le terme "la plupart".
 
-Le texte du Conseil européen est un peu plus clair : "*Un gestionnaire de paquets, un hébergeur de code ou une plateforme de collaboration qui facilite le développement et la fourniture de logiciels n'est considéré comme un distributeur que s'il met ce logiciel à disposition sur le marché et le fournit donc pour distribution ou utilisation sur le marché de l'Union dans le cadre d'une activité commerciale*". En effet, il est précisé ici dans quels cas concrets l'exception ne doit pas s'appliquer.
+Le texte du Conseil de l'Union européenne est un peu plus clair : "*Un gestionnaire de paquets, un hébergeur de code ou une plateforme de collaboration qui facilite le développement et la fourniture de logiciels n'est considéré comme un distributeur que s'il met ce logiciel à disposition sur le marché et le fournit donc pour distribution ou utilisation sur le marché de l'Union dans le cadre d'une activité commerciale*". En effet, il est précisé ici dans quels cas concrets l'exception ne doit pas s'appliquer.
 
-**Bien que les deux versions laissent place à l'interprétation, et donc à des incertitudes juridiques, la proposition de texte du Conseil européen, qui définit concrètement les cas dans lesquels les gestionnaires de paquets ne sont pas concernés par l'exception, devrait être privilégiée.**
+**Bien que les deux versions laissent place à l'interprétation, et donc à des incertitudes juridiques, la proposition de texte du Conseil de l'Union européenne, qui définit concrètement les cas dans lesquels les gestionnaires de paquets ne sont pas concernés par l'exception, devrait être privilégiée.**
 
 ## III. Nos recommandations au gouvernement français
 
@@ -145,7 +145,7 @@ Lors des prochaines négociations du trilogue, le gouvernement français doit ve
 
 La CRA ne devrait pas tenir pour responsable le créateur d'un logiciel open source, mais le "metteur en circulation" ou l'utilisateur qui offre un service avec ce logiciel, s'il est facturé ou si un modèle commercial est basé sur ce logiciel.
 
-Lors des négociations au Parlement européen, le comité consultatif pour le marché intérieur et la protection des consommateurs (IMCO) avait formulé une bien meilleure exception pour les logiciels libres. Les formulations du texte final du Conseil européen sont également en partie mieux adaptées à la protection de l'écosystème des logiciels libres. Elles devraient servir de base au trilogue et être préférées aux formulations de la commission ITRE.
+Lors des négociations au Parlement européen, le comité consultatif pour le marché intérieur et la protection des consommateurs (IMCO) avait formulé une bien meilleure exception pour les logiciels libres. Les formulations du texte final du de l'Union européenne sont également en partie mieux adaptées à la protection de l'écosystème des logiciels libres. Elles devraient servir de base au trilogue et être préférées aux formulations de la commission ITRE.
 
 Le CNLL offre son expertise dans la perspective des négociations du trilogue et est toujours disponible pour des échanges et des consultations.
 

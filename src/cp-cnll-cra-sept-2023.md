@@ -49,7 +49,7 @@ Le CNLL demande donc au gouvernement français, ainsi qu'à toutes les parties p
 
 - **Clarifier les responsabilités**: S'assurer que, lorsqu'il s'agit d'entités différentes, le créateur d'un logiciel ou d'un composant open source ne soit pas tenu pour responsable, mais plutôt le "metteur en circulation" ou l'entreprise qui offre un service avec ce logiciel, notamment s'il est facturé ou si un modèle commercial est basé dessus.
 
-- **Se baser sur les formulations du Conseil européen et du comité IMCO**: Privilégier les formulations du texte final du Conseil européen et les recommandations antérieures du comité IMCO du Parlement européen, qui semblent mieux protéger l'écosystème des logiciels libres, par rapport aux formulations de la commission ITRE.
+- **Se baser sur les formulations du Conseil de l'Union européenne et du comité IMCO**: Privilégier les formulations du texte final du Conseil de l'Union européenne et les recommandations antérieures du comité IMCO du Parlement européen, qui semblent mieux protéger l'écosystème des logiciels libres, par rapport aux formulations de la commission ITRE.
 
 - **Engager une collaboration avec les experts de l'industrie**: Favoriser un échange continu avec les représentants de la filière professionnelle des logiciels libres, en exploitant notamment l'expertise offerte par le CNLL au niveau français et de l'APELL au niveau européen, pour assurer que les décisions prises tiennent compte de la réalité des modèles économiques et de collaboration, et des besoins, du secteur open source.
 
