@@ -10,5 +10,6 @@ cnll-bullet-points.pdf:
 #	typst compile $<
 
 clean:
-	rm -rf dist
-	rm -rf *.md.tmp
+	rm -f dist/*.typ
+	rm -f src/*.tmp.md
+	rm -f styles/*.pdf
