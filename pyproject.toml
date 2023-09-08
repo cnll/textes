@@ -1,7 +1,7 @@
 [project]
-name = "cra-texts"
+name = "cnll-texts"
 version = "0.1.0"
-description = "Add a short description here"
+description = "Textes du CNLL (communiqués, études...)"
 authors = [
     { name = "Stefane Fermigier", email = "sf@fermigier.com" }
 ]
